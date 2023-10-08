@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Main-Class: com.demo.App
+Class-Path: selenium-remote-driver-3.141.59.jar jsr305-1.3.9.jar okhttp-
+ 3.11.0.jar error_prone_annotations-2.1.3.jar animal-sniffer-annotations
+ -1.14.jar httpcore5-5.2.jar httpcore5-h2-5.2.jar slf4j-api-2.0.7.jar by
+ te-buddy-1.8.15.jar docker-java-transport-httpclient5-3.3.2.jar seleniu
+ m-chrome-driver-3.141.59.jar httpclient5-5.2.1.jar selenium-safari-driv
+ er-3.141.59.jar docker-java-3.3.2.jar docker-java-api-3.3.2.jar seleniu
+ m-opera-driver-3.141.59.jar commons-lang3-3.12.0.jar j2objc-annotations
+ -1.1.jar commons-exec-1.3.jar okio-1.14.0.jar jackson-databind-2.10.3.j
+ ar webdrivermanager-5.4.1.jar selenium-support-3.141.59.jar selenium-ie
+ -driver-3.141.59.jar jcl-over-slf4j-1.7.30.jar jna-5.12.1.jar dec-0.1.2
+ .jar commons-compress-1.21.jar bcpkix-jdk15on-1.64.jar checker-compat-q
+ ual-2.0.0.jar bcprov-jdk15on-1.64.jar selenium-java-3.141.59.jar gson-2
+ .10.1.jar guava-25.0-jre.jar docker-java-transport-3.3.2.jar jackson-an
+ notations-2.10.3.jar selenium-api-3.141.59.jar docker-java-core-3.3.2.j
+ ar jackson-core-2.10.3.jar selenium-edge-driver-3.141.59.jar selenium-f
+ irefox-driver-3.141.59.jar commons-io-2.6.jar
+
